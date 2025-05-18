@@ -58,7 +58,7 @@ For questions or commercial licensing inquiries, please open an issue or email a
 [![Release v1.0.0](https://img.shields.io/github/v/release/yourusername/YourRepo)]((https://github.com/ajaikumarajaikumar/FileStructureBuilder/releases/tag/v1.0.0))
 
 **Download the latest release**:  
-[File.Structure.Builder.exe](https://github.com/yourusername/YourRepo/releases/download/v1.0.0/gui_app.exe)
+[File.Structure.Builder.exe](https://github.com/ajaikumarajaikumar/FileStructureBuilder/releases/download/v1.0.0/File.Structure.Builder.exe)
 
 
 ## Developed by
