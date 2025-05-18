@@ -55,5 +55,11 @@ Distributed under the **GNU AGPL v3.0** license. See `LICENSE` for details.
 ## Contact
 For questions or commercial licensing inquiries, please open an issue or email ajaikumar.ak003@gmail.com.
 
+[![Release v1.0.0](https://img.shields.io/github/v/release/yourusername/YourRepo)](https://github.com/yourusername/YourRepo/releases/latest)
+
+**Download the latest release**:  
+[File.Structure.Builder.exe](https://github.com/yourusername/YourRepo/releases/download/v1.0.0/gui_app.exe)
+
+
 ## Developed by
 AJAI KUMAR M. Happy Learning! ;)
