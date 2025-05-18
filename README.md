@@ -18,7 +18,7 @@ No external Python packages required (uses standard library).
 ```bash
 # Clone the repo
 git clone https://github.com/ajaikumarajaikumar/FileStructureBuilder.git
-cd FileStructureParser
+cd FileStructureBuilder
 ```
 
 ## Usage
