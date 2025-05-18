@@ -50,4 +50,8 @@ Refer to `test_cases.txt` for 10 important test inputs covering valid, warning, 
 
 ## License
 
-Distributed under the **GNU GPL v3.0** license. See `LICENSE` for details.
+Distributed under the **GNU AGPL v3.0** license. See `LICENSE` for details.
+
+## Contact
+For questions or commercial licensing inquiries, please open an issue or email ajaikumar.ak003@gmail.com.
+HAPPY LEARNING!:)
