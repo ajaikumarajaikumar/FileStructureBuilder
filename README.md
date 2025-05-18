@@ -1,4 +1,4 @@
-# File Structure Parser & Manager
+# File Structure Builder & Manager
 
 A desktop utility that interprets a custom mini-language to define and create file and folder structures on your system. It features:
 
@@ -17,7 +17,7 @@ No external Python packages required (uses standard library).
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/FileStructureParser.git
+git clone https://github.com/ajaikumarajaikumar/FileStructureBuilder.git
 cd FileStructureParser
 ```
 
