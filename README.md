@@ -54,4 +54,6 @@ Distributed under the **GNU AGPL v3.0** license. See `LICENSE` for details.
 
 ## Contact
 For questions or commercial licensing inquiries, please open an issue or email ajaikumar.ak003@gmail.com.
-HAPPY LEARNING! ;)
+
+## Developed by
+AJAI KUMAR M. Happy Learning! ;)
