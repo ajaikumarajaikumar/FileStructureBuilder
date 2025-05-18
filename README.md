@@ -55,7 +55,7 @@ Distributed under the **GNU AGPL v3.0** license. See `LICENSE` for details.
 ## Contact
 For questions or commercial licensing inquiries, please open an issue or email ajaikumar.ak003@gmail.com.
 
-[![Release v1.0.0](https://img.shields.io/github/v/release/yourusername/YourRepo)](https://github.com/ajaikumarajaikumar/FileStructureBuilder/releases/tag/v1.0.0)
+[![Release v1.0.0](https://img.shields.io/github/v/release/ajaikumarajaikumar/YourRepo)](https://github.com/ajaikumarajaikumar/FileStructureBuilder/releases/tag/v1.0.0)
 
 **Download the latest release**:  
 [File.Structure.Builder.exe](https://github.com/ajaikumarajaikumar/FileStructureBuilder/releases/download/v1.0.0/File.Structure.Builder.exe)
