@@ -45,7 +45,7 @@ Refer to `test_cases.txt` for 10 important test inputs covering valid, warning, 
 - `gui_app.py` – GUI application
 - `main.py` – CLI entry and file creation logic
 - `test_cases.txt` – Sample test inputs
-- `LICENSE` – Project license (e.g., GPL v3.0)
+- `LICENSE` – Project license (GNU AGPL v3.0)
 - `.gitignore` – Recommended ignore patterns
 
 ## License
